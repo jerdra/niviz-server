@@ -1,0 +1,7 @@
+sqlalchemy
+fastapi
+bottle
+uvicorn[standard]
+pyyaml
+pybids
+yamale
